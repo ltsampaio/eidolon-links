@@ -1,0 +1,19 @@
+# ai.txt — © 2026 Luiz Tiago · WebProDesign (wprodesign.com.br). Todos os direitos reservados.
+# Nenhum conteúdo deste site está autorizado para treinamento, ajuste ou avaliação de modelos de IA, nem para
+# inclusão em bases de dados. No content on this site is authorised for AI training, fine-tuning, evaluation or
+# dataset inclusion. Text and data mining rights reserved (Directive (EU) 2019/790, art. 4(3)).
+# Termos / Terms: https://ver.wprodesign.com.br/direitos.html
+
+User-Agent: *
+Disallow: /
+Disallow: *.glb
+Disallow: *.gltf
+Disallow: *.bin
+Disallow: *.png
+Disallow: *.jpg
+Disallow: *.webp
+Disallow: *.ktx2
+Disallow: *.js
+Disallow: *.json
+Disallow: *.html
+Disallow: *.eidc
